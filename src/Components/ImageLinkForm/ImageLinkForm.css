@@ -1,0 +1,12 @@
+.form {
+	display: flex;
+	justify-content: center;
+}
+input {
+	width: 70%;
+
+}
+#btn2 {
+	background:black;
+	color: gold;
+}

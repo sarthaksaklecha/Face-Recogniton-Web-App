@@ -1,0 +1,9 @@
+#nav{
+	display: flex;
+	justify-content: flex-end;
+	text-decoration: underline;
+
+}
+button {
+	background: linear-gradient(to right,#ddee5d,#ee913a);
+}

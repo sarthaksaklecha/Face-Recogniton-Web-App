@@ -1,0 +1,29 @@
+#fi {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: absolute;
+    margin-left: auto;
+	margin-right: auto;
+	height:300px; 
+	width:auto;
+
+	}
+
+#boxface{
+	position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: pointer;
+}	
+
+#outter{
+	position: relative;
+	display: flex;
+	justify-content: center;
+
+}
